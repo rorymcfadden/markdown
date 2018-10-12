@@ -3,7 +3,7 @@
 Priceless Relics of the Spanish Armada
 =======================================
 
-###**by Robert Sténuit**
+### **by Robert Sténuit**
 
 *Illustrations by National Geographic*
 Photographer Bates Lilttlehales
@@ -17,7 +17,7 @@ Ahead, not thirty miles away, lay Scotland's west coast and sanctuary for the ve
 The wind won. White water boiled off the starboard bow. A scream from the lookout brought sailors racing to drop anchor. Too late. A fang of rock rising from the sea ripped the Girona's flank; she gutted herself upon it. Her back broke, her side opened, her entrails burst from her. Cannons, cannon balls, small arms, stores, coffers and 1,300 sick men, too exhausted to struggle, sank into the convulsive surf.
 Four centuries later the shipwreck was discovered under 30 feet of icy water, treasures lost on that fateful day included:
 
- - A ornamental winged salamander
+- A ornamental winged salamander
 - Gold cross of the Knight of Malta
 - Gilded brass dolphin
 - Lapis lazuli cameos
